@@ -1,0 +1,46 @@
+/* @media screen and (max-width: 760px) {
+  body {
+    width: 100%;
+  }
+
+  #nav-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 1.5rem;
+  }
+
+  section#services {
+    display: flex;
+    flex-direction: column;
+  }
+}
+header#showcase {
+  margin: auto;
+
+  width: 300px;
+  height: 300px;
+  padding: 0;
+}
+header#showcase h1 {
+  width: 100%;
+
+  text-align: center;
+  margin: auto auto;
+  font-style: italic;
+  color: #6c63ff;
+}
+section.clients {
+  display: none;
+}
+#tools-div {
+  display: flex;
+  flex-direction: column;
+}
+footer {
+  display: flex;
+  flex-direction: column;
+}
+#small-header {
+  margin: auto;
+} */
